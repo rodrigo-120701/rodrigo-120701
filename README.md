@@ -1,5 +1,6 @@
                                                           Hola, soy Rodrigo👋
 [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-navarrete-moreno-120701rnm/)](https://www.linkedin.com/in/rodrigo-navarrete-moreno-120701rnm/)
+[![Gmail Badge](https://img.shields.io/badge/-RodrigoNavarrete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigonavarretemoreno@gmail.com)](mailto:rodrigonavarretemoreno@gmail.com)
 
 <!--
 **rodrigo-120701/rodrigo-120701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
