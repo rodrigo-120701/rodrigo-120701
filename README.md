@@ -22,5 +22,5 @@ Sobre mi!
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white&style=flat)
 
 - ## Frameworks
-  ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-   ![Reactjs](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
