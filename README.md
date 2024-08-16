@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-RodrigoNavarrete-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigonavarretemoreno@gmail.com)](mailto:rodrigonavarretemoreno@gmail.com)
 
 # 💫 Sobre mi:
-¡Hola! Soy un programador junior con una gran pasión por la tecnología y el desarrollo de software. Me encanta aprender y siempre estoy en busca de nuevas oportunidades para expandir mis conocimientos y habilidades. Tengo un fuerte deseo de contribuir a proyectos interesantes y desafiantes, donde pueda aplicar lo que sé y adquirir nuevas experiencias.<br>- 🎓 Pasante de Ingeniería en Computación.<br>- 💻 Desarrollador de software.<br>- 🔭 Gusto por trabajar en back-end y front-end.<br>- 🌱 Gusto por aprender nuevas tecnologias.
+¡Hola! Soy un desarrollador con una gran pasión por la tecnología y el desarrollo de software. Me encanta aprender y siempre estoy en busca de nuevas oportunidades para expandir mis conocimientos y habilidades. Tengo un fuerte deseo de contribuir a proyectos interesantes y desafiantes, donde pueda aplicar lo que sé y adquirir nuevas experiencias.<br>- 🎓 Pasante de Ingeniería en Computación.<br>- 💻 Desarrollador de software.<br>- 🔭 Gusto por trabajar en back-end y front-end.<br>- 🌱 Gusto por aprender nuevas tecnologias.
 
 
 # 💻 Tecnologías:
